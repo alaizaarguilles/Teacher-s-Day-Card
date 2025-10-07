@@ -1,0 +1,68 @@
+<!doctype html>
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<title>Teacher's Day Card — Sir Randy</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="wrap">
+<div class="card" role="region" aria-label="Teacher's Day card editor">
+<div class="left">
+<div class="photo-frame" id="photoFrame">
+<img id="teacherPhoto" src="data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='600' height='600'><rect width='100%' height='100%' fill='%230b1220'/><text x='50%' y='50%' fill='%237c3aed' font-size='32' font-family='Arial' dominant-baseline='middle' text-anchor='middle'>Sir Randy</text></svg>" alt="Sir Randy photo" />
+</div>
+
+
+<div class="upload">
+<label class="btn" for="photoInput">Upload Photo</label>
+<input id="photoInput" type="file" accept="image/*" />
+<div class="small" style="margin-top:8px">Tip: Use a clear portrait. Circle crop applied visually.</div>
+</div>
+
+
+<div style="width:100%;text-align:center;margin-top:6px">
+<button class="ghost" id="resetPhoto">Reset Photo</button>
+</div>
+</div>
+
+
+<div class="right">
+<div class="header">
+<div>
+<div class="title">Teacher's Day — Message Card</div>
+<div class="subtitle">Personalize the message for <strong id="displayName">Sir Randy</strong></div>
+</div>
+<div class="meta">
+<div class="chip">BSCS 3C</div>
+</div>
+</div>
+
+
+<div class="message-box">
+<div class="message">
+<div contenteditable id="messageText">Dear Sir Randy,<br><br>Thank you sir Randy for your dedication for teaching us, Salamat sa knowledge and guidance. Sana ay hindi ka magbago sir Happy Teacher's Day!<br><br>With gratitude,<br><em>— Your Students</em></div>
+</div>
+</div>
+
+
+<div class="actions-wrapper">
+<div class="actions">
+<button class="primary" id="printBtn">Print / Save as PDF</button>
+<button class="ghost" id="copyBtn">Copy Message</button>
+<button class="ghost" id="changeNameBtn">Edit Name</button>
+</div>
+<div class="small credits">From: Your Student (A.Arguilles)</div>
+</div>
+
+
+<div class="footer">
+</div>
+</div>
+</div>
+</div>
+
+
+<script src="script.js"></script>
+</body>
+</html>
