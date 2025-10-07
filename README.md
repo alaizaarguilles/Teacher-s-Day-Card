@@ -26,7 +26,7 @@ JavaScript (ES6) for interactivity such as photo upload, copy message, edit name
 
 🧭 How to Use
 
-Visit my site: 
+Visit my site:https://alaizaarguilles.github.io/Teacher-s-Day-Card/
 
 🧩 Customization
 
