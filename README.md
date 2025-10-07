@@ -1,2 +1,2 @@
 # Teacher-s-Day-Card
-“A minimalist and futuristic Teacher’s Day message card for Ma’am Daisy Jean Castillo, featuring a glassmorphism design, neon glow effects, a flip animation, and an upload photo feature for personalization.”
+“The Teacher’s Day Message Card is a creative and interactive web-based greeting card designed to honor and appreciate educators, specifically made for Sir Randy. It combines elegance, functionality, and modern design principles to deliver a personalized digital tribute that students can easily edit and share..”
