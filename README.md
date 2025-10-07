@@ -26,13 +26,7 @@ JavaScript (ES6) for interactivity such as photo upload, copy message, edit name
 
 🧭 How to Use
 
-Open the webpage in any modern browser.
-
-Upload a photo of the teacher.
-
-Edit the message directly on the card.
-
-Click “Copy Message” or “Print / Save as PDF” to share or save.
+Visit my site: 
 
 🧩 Customization
 
